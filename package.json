@@ -1,8 +1,15 @@
 {
   "name": "exam-schedule-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "📒 The exam schedule for UITers.",
   "main": "index.js",
+  "keywords": [
+    "cli-app",
+    "cli",
+    "exam",
+    "schedule",
+    "exam-schedule"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +22,14 @@
   "bugs": {
     "url": "https://github.com/cuongw/exam-schedule-cli/issues"
   },
-  "homepage": "https://github.com/cuongw/exam-schedule-cli#readme"
+  "homepage": "https://github.com/cuongw/exam-schedule-cli#readme",
+  "bin": {
+    "exam-schedule": "./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2",
+    "cli-table": "^0.3.1",
+    "ora": "^3.1.0"
+  }
 }
