@@ -2,6 +2,8 @@
 
 > 📙 The exam schedule for UITers.
 
+![exam-schedule-cli](https://user-images.githubusercontent.com/34389409/53110821-6f361200-356e-11e9-94c5-80ee6a36607d.gif)
+
 ## Install
 
 ```
