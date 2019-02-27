@@ -25,5 +25,4 @@ Using [uit_es_creator](https://github.com/fongfan999/uit_es_creator).
 
 ## License
 
-![](https://img.shields.io/github/license/cuongw/exam-schedule-cli.svg?style=flat-square)
-
+![License](https://img.shields.io/github/license/cuongw/exam-schedule-cli.svg?style=flat-square)
